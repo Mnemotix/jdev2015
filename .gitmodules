@@ -1,7 +1,6 @@
 [submodule "bbtodo"]
 	path = bbtodo
 	url = git@github.com:Mnemotix/bbtodo.git
-
 [submodule "fake-api"]
 	path = fake-api
 	url = git@github.com:Mnemotix/fake-api.git
