@@ -1,0 +1,9 @@
+[submodule "nodejs/restapi"]
+	path = nodejs/restapi
+	url = git@github.com:Mnemotix/fake-api.git
+[submodule "backbone/simple-todo"]
+	path = backbone/simple-todo
+	url = git@github.com:Mnemotix/bbtodo.git
+[submodule "backbone/restclient"]
+	path = backbone/restclient
+	url = git@github.com:Mnemotix/backbone-restful-client.git
