@@ -1,0 +1,3 @@
+[submodule "bbtodo"]
+	path = bbtodo
+	url = git@github.com:Mnemotix/bbtodo.git
