@@ -1,3 +1,9 @@
-[submodule "bbtodo"]
-	path = bbtodo
+[submodule "restapi"]
+	path = restapi
+	url = git@github.com:Mnemotix/fake-api.git
+[submodule "restclient"]
+	path = restclient
+	url = git@github.com:Mnemotix/backbone-restful-client.git
+[submodule "simple-todo"]
+	path = simple-todo
 	url = git@github.com:Mnemotix/bbtodo.git
