@@ -2,6 +2,6 @@
 	path = bbtodo
 	url = git@github.com:Mnemotix/bbtodo.git
 
-[submodule "restapi"]
-	path = fake-api
+[submodule "fake-api"]
+	path = restapi
 	url = git@github.com:Mnemotix/fake-api.git
