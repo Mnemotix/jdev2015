@@ -7,3 +7,6 @@
 [submodule "backbone/restclient"]
 	path = backbone/restclient
 	url = git@github.com:Mnemotix/backbone-restful-client.git
+[submodule "gulp"]
+	path = gulp
+	url = git@github.com:Mnemotix/gulp-tuto.git
