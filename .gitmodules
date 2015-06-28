@@ -1,12 +1,12 @@
-[submodule "nodejs/restapi"]
-	path = nodejs/restapi
+[submodule "tutorials/restapi"]
+	path = tutorials/restapi
 	url = git@github.com:Mnemotix/fake-api.git
-[submodule "backbone/simple-todo"]
-	path = backbone/simple-todo
+[submodule "tutorials/backbone"]
+	path = tutorials/backbone
 	url = git@github.com:Mnemotix/bbtodo.git
-[submodule "backbone/restclient"]
-	path = backbone/restclient
+[submodule "tutorials/backbone2"]
+	path = tutorials/backbone2
 	url = git@github.com:Mnemotix/backbone-restful-client.git
-[submodule "gulp"]
-	path = gulp
+[submodule "tutorials/gulp"]
+	path = tutorials/gulp
 	url = git@github.com:Mnemotix/gulp-tuto.git
